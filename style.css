@@ -15,3 +15,33 @@ div>p{
     color: aliceblue;
     font-size: 20px;
 }
+
+
+.main{
+    width: 100%;
+    height: 800px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: blue;
+
+}
+.mek {
+    color: aliceblue;
+    font-size: 70px;
+}
+
+.erku{
+    color: aliceblue;
+}
+.dexin{
+    width: 150px;
+    height: 40px;
+    align-items: center;
+    justify-content: center;
+    border-radius: 30px;
+    background-color: orange;
+}
+.dexid>p{
+    color: aliceblue;
+}
