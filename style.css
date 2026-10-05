@@ -1,0 +1,17 @@
+.glxavor{
+    height: 150px;
+    width: 100%;
+    background-color: darkblue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 190px;
+}
+div>h2{
+    color: aliceblue;
+    font-size: 30px;
+}
+div>p{
+    color: aliceblue;
+    font-size: 20px;
+}
